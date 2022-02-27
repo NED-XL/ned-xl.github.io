@@ -130,7 +130,7 @@ p {
   text-transform: uppercase; }
   @media (max-width: 767px) {
     .main-btn {
-      font-size: 14px;
+      font-size: 18px;
       padding: 0 20px;
       line-height: 40px; } }
 
@@ -358,7 +358,7 @@ p {
       font-weight: 600; }
       @media (max-width: 767px) {
         .header-hero .header-content .header-title {
-          font-size: 30px;
+          font-size: 80px;
           line-height: 40px; } }
     .header-hero .header-content .text {
       font-size: 20px;
